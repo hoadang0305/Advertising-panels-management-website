@@ -1,4 +1,4 @@
-# Urban Billboard Management System
+# Billboard Management System
 
 This is a group project assignment from the course **CSC13008 – Web Application Development (21KTPM2)** at VNU-HCM, University of Science.
 
